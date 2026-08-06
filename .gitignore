@@ -2,4 +2,5 @@
 __pycache__/
 .claude/
 .idea/
-.vscode/
+config.bat
+node_modules
